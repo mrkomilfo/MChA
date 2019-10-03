@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ab812d7-1acc-4411-9beb-33b9253a3f09" name="Default Changelist" comment="" />
+    <list default="true" id="1ab812d7-1acc-4411-9beb-33b9253a3f09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/../lab1/lab1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="29" selection-end-column="26" />
+              <caret selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -40,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -48,16 +53,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="152" />
-    <option name="y" value="1" />
+    <option name="x" value="151" />
     <option name="width" value="1310" />
-    <option name="height" value="1079" />
+    <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,7 +75,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -131,7 +136,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="1" width="1048" height="863" extended-state="0" />
+    <frame x="121" y="0" width="1048" height="864" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1661721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -143,7 +148,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.3269494" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.32650274" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -157,7 +162,7 @@
     <entry file="file://$PROJECT_DIR$/../lab1/lab1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="29" selection-end-column="26" />
+          <caret selection-end-line="29" />
         </state>
       </provider>
     </entry>
