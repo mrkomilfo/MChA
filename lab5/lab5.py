@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+import pandas as pn
+import seaborn as sb
 '''
 L = 25
 delta_u = 0.2
